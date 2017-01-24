@@ -1,0 +1,19 @@
+{
+  "name": "rundeck-get-releases",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.1.4",
+    "aws-serverless-express": "^1.2.0",
+    "claudia-api-builder": "^2.3.1",
+    "express": "^4.14.0",
+    "github": "^7.3.2",
+    "github-base": "^0.5.1"
+  }
+}
